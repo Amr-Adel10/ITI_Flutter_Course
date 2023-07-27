@@ -1,2 +1,2 @@
-# iti_flutter_course
+# Iti_Flutter_Course
 
